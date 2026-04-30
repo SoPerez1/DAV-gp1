@@ -1,2 +1,1 @@
-# DAV
-DAV (UADER)
+# DAVCore

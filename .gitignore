@@ -1,0 +1,7 @@
+models/
+*.pyc
+__pycache__/
+*.zip
+local_config.py
+.idea/
+*.log
